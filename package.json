@@ -1,6 +1,6 @@
 {
-  "name": "muzammil454-simple-calculator",
-  "version": "1.0.0",
+  "name": "muzammil-simple-calculator",
+  "version": "1.0.1npm ",
   "description": "A simple calculator with typescript, node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
